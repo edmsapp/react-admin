@@ -1,0 +1,5 @@
+# Gaga admin
+
+## npm i
+
+
